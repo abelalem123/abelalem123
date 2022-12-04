@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Alem</h1>
-<h3 align="center">A Professional Mobile app developer from Ethiopia</h3>
+<h3 align="center">A Professional Mobile and Web app developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelalem123&label=Profile%20views&color=0e75b6&style=flat" alt="abelalem123" /> </p>
 
